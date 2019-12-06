@@ -1,0 +1,13 @@
+# Site settings
+title: Консультант
+
+description: Консультант 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://konsultant.ml" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+
+gems:
+  - jekyll-sitemap
